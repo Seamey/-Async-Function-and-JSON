@@ -1,0 +1,134 @@
+
+[
+                    {
+                    "id": 1,
+                    "title": "Cake",
+                    "description": "A birthday cake is a special cake that is made to celebrate someone's birthday.  ",
+                    "price": 5.49,
+                    "discountPercentage": 12.96,
+                    "rating": 3.69,
+                    "stock": 94,
+                    
+                    "images": [
+                    "https://i.pinimg.com/474x/61/fe/3f/61fe3f7df9a25e4b177215006fccc51d.jpg",
+                    "https://i.pinimg.com/474x/2d/2a/9a/2d2a9adacd86633868ba6cca60e675dd.jpg",
+                    "https://i.pinimg.com/474x/17/c3/94/17c3941e0e485b9e530539f7838657b8.jpg"
+                    ]
+                    },
+                    {
+                    "id": 2,
+                    "title": "Vintage, dreamy, beautiful cake",
+                    "description": "Your brithday not Today , but you can pick it up now",
+                    "price": 8.99,
+                    "discountPercentage": 17.94,
+                    "rating": 4.44,
+                    "stock": 34,
+                   
+                    "images": [
+                    "https://i.pinimg.com/736x/a8/45/11/a845119d46a23d8cd068148f6a82af33.jpg",
+                    "https://i.pinimg.com/564x/64/b8/1e/64b81ef0f413a1dea44ccd4a195a3559.jpg",
+                    "https://i.pinimg.com/564x/92/e4/b8/92e4b86a898bd29d9508559cbd213d9c.jpg"
+                    ]
+                    },
+                    {
+                    "id": 3,
+                    "title": "Ice Cream Jelly",
+                    "description": " Thicken Plastic Cups With Lid Takeaway Package Pudding Ice Cream Jelly ",
+                    "price": 12.4,
+                    "discountPercentage": 15.46,
+                    "rating": 3.09,
+                    "stock": 36,
+                    
+                    "images": [
+                    "https://i.pinimg.com/564x/64/b8/1e/64b81ef0f413a1dea44ccd4a195a3559.jpg"
+                    ]
+                    },
+                    {
+                    "id": 4,
+                    "title": "Mini Cake",
+                    "description": "Mini Cake with a lot of favor , you can come here ",
+                    "price": 2.80,
+                    "discountPercentage": 17.91,
+                    "rating": 4.3,
+                    "stock": 123,
+                   
+                    "images": [
+                    "https://i.pinimg.com/474x/a2/7d/3c/a27d3c488994c36237bc59a43e4dbd1b.jpg",
+                    "https://i.pinimg.com/564x/05/0b/30/050b307235c11e06d0aa902c83163463.jpg"
+                    ]
+                    },
+                    {
+                    "id": 5,
+                    "title": "Strawberry chesse cake",
+                    "description": "Strawberry with chesse cake it's the best partner",
+                    "price": 4.99,
+                    "discountPercentage": 10.58,
+                    "rating": 3.79,
+                    "stock": 32,
+                   
+                    "images": [
+                    "https://i.pinimg.com/474x/c4/9f/ff/c49fff59558de5c6c65ba551d044b6eb.jpg",
+                    "https://i.pinimg.com/564x/ef/09/df/ef09dfa7a340e2387971108145bc90f6.jpg",
+                    "https://i.pinimg.com/474x/29/76/4b/29764b49b65bb6808ef2cac062cce8b3.jpg"
+                    ]
+                    }
+                    ,
+                    {
+                    "id": 6,
+                    "title": "Chocolate",
+                    "description": "Soft , Sweet, delicious like you",
+                    "price": 5.9,
+                    "discountPercentage": 10.58,
+                    "rating": 4.09,
+                    "stock": 32,
+                    "brand": "Huawei",
+                    "category": "smartphones",
+                   
+                    "images": [
+                    "https://i.pinimg.com/564x/fb/57/0d/fb570dcb2fe3d2a078f184a240e3c037.jpg"
+                    ]
+                    },
+                    {
+                    "id": 7,
+                    "title": "Chocolate strawberry Cake",
+                    "description": "Chocolate with strrawberry who's the favorite? Come to pick up",
+                    "price": 9.9,
+                    "discountPercentage": 10.58,
+                    "rating": 3.09,
+                    "stock": 32,
+                   
+                    "images": [
+                    "https://i.pinimg.com/474x/9e/51/98/9e51987fff1f7b3baefa360a06d0ba36.jpg",
+                    "https://i.pinimg.com/474x/66/64/98/6664981cf9c99c01694ad7fe88e448d3.jpg"
+                    ]
+                    },
+                    {
+                    "id": 8,
+                    "title": "Cheese Cake",
+                    "description": "Chesse cake with your favorite furits, sweet less , delicious",
+                    "price": 4.99,
+                    "discountPercentage": 10.58,
+                    "rating": 2.99,
+                    "stock": 32,
+                   
+                    "images": [
+                    "https://i.pinimg.com/474x/62/9f/3a/629f3a316f90a9065bd026b9911647ed.jpg",
+                    "https://i.pinimg.com/564x/39/99/b4/3999b483d67c64664cb49777b3c9592a.jpg",
+                    "https://i.pinimg.com/474x/73/82/7e/73827eaf246b475302c47cc25565d901.jpg"
+                    ]
+                    },
+                    {
+                    "id": 9,
+                    "title": "Cute Cake",
+                    "description": "If you need the cute cake ,You can find the cute cake here, don't forget our shop",
+                    "price": 9.9,
+                    "discountPercentage": 10.58,
+                    "rating": 3.09,
+                    "stock": 32,
+                   
+                    "images": [
+                    "https://i.pinimg.com/474x/57/f4/f3/57f4f35f6efee115db8ba08ef10efc76.jpg"
+                    ]
+                    }
+]
+                    
